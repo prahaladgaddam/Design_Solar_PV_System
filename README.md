@@ -1,3 +1,4 @@
+
 Solar Energy Capstone Project 
 
 Objective: Design a solar power system to meet the energy demands of a designated location.
@@ -21,3 +22,6 @@ Outcomes:
 Demonstrated the ability to apply solar energy principles to real-world scenarios.
 Gained experience in designing a complete solar power system.
 Developed skills in energy consumption analysis and optimization.
+
+![Screenshot 2024-03-08 18 09 14](https://github.com/prahaladgaddam/Design_Solar_PV_System/assets/139104865/544e887a-7824-4b5a-b741-4a0214423e0e)
+![Screenshot 2024-03-08 18 30 18](https://github.com/prahaladgaddam/Design_Solar_PV_System/assets/139104865/5a2dea22-e42a-4b55-be77-969f55cdde4e)
